@@ -1,6 +1,4 @@
-# web-api-demo-imv4
-Web-API-Demo-IMV4
-
+# Web IMLib V4 Test
 ## SDK 依赖
 
 ```html
